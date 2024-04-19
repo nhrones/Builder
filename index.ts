@@ -1,4 +1,4 @@
-import * as CFG from './config.ts'
+import * as CFG from './thisConfig.ts'
 
 /** Build an entrypoint into a single ESM javascript output. */
 export async function build() {
