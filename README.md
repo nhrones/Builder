@@ -22,3 +22,9 @@ The Build configuration above is as follows:
   - BundleName -- a file name for the build output
 
 You can modify any of the above config props and the change will be used on next use.
+
+## Usage:
+To install Builder from Github:
+```
+bun add git@github.com:nhrones/DevTool-Builder.git
+```

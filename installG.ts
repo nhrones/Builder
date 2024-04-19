@@ -13,7 +13,7 @@ const cmdText = `
 :: created by C:/Users/nhron/dev/Bun/Utils/Builder/big.ts
 :: Runs bun-build on a project configuration from project root
 
-@bun "run" "C:/Users/nhron/dev/Bun/utils/Builder/buildIt.ts" %*
+@bun "run" "C:/Users/nhron/dev/Bun/DevTools/DevTool-Builder/buildIt.ts" %*
 
 ECHO Build completed!`;
 

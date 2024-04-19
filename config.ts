@@ -1,5 +1,5 @@
-import type { Config } from './deps.ts'
-import { getConfig } from './deps.ts'
+import type { Config } from 'config' //'./deps.ts'
+import { getConfig } from 'config' //'./deps.ts'
 
 //const BundleName = 'bundle'
 
