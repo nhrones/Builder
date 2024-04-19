@@ -1,0 +1,11 @@
+{
+    "Build": {
+        "DEV": true,
+        "Entry": [
+            "./src/main.ts"
+        ],
+        "Minify": false,
+        "Out": "dist",
+        "BundleName": "bundle"
+    }
+}

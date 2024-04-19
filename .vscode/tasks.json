@@ -1,0 +1,17 @@
+{
+   // See https://go.microsoft.com/fwlink/?LinkId=733558
+   // for the documentation about the tasks.json format
+   "version": "2.0.0",
+   "tasks": [
+      {
+         "label": "TEST BUILD",
+         "type": "shell",
+         "command": "bun test.ts"
+      },
+      {
+         "label": "INSTALL-G",
+         "type": "shell",
+         "command": "bun run installG.ts"
+      }
+   ]
+}
